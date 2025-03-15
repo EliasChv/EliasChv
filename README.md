@@ -1,6 +1,23 @@
-- 👋 Hi, I’m @EliasChv
-- 🌱 I’m currently learning Electrical Engineering at the University of Notre Dame.
-- 👀 I’m interested in a little bit of everything.
+<h1 align=center>Hi, I’m EliasChv
+</h1>
+
+<div align=center>
+
+I’m currently learning Electrical Engineering at the University of Notre Dame. I’m interested in a little bit of everything, from robotics to web development. I enjoy exploring new technologies and collaborating on innovative projects.⚡
+
+<br>
+  
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasChv)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2 align=center>Tech Snapshot
+</h2>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=docker,c,cpp,matlab,python,linux,arduino)](https://skillicons.dev)
+
+
+
 
 
 <!---

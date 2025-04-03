@@ -9,16 +9,16 @@ I’m currently learning Electrical Engineering at the University of Notre Dame.
   
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasChv)](https://github.com/anuraghazra/github-readme-stats)
 
+ [![](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasChv)](https://github.com/EliasChv)</br> 
+
+
 <h2 align=center>Tech Snapshot
 </h2>
+
 
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=docker,c,cpp,matlab,python,linux,arduino)](https://skillicons.dev)
-
-
-
-
 
 <!---
 EliasChv/EliasChv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

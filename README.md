@@ -16,7 +16,7 @@ I’m currently learning Electrical Engineering at the University of Notre Dame.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=docker,c,cpp,cs,matlab,python,rust,arduino,latex,javascript,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,c,cpp,cs,matlab,python,rust,arduino,latex,javascript,r,godot,vite)](https://skillicons.dev)
 
 <!---
 EliasChv/EliasChv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
